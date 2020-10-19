@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Color Chooser</string>
+    <string name="web_url">http://www.html5test.com</string>
+    <string name="exit_btn">Exit Game</string>
+    <string name="retry_btn">Retry Game</string>
+    <string name="end_game_text">"Your score: %s\n\nDo you want to retry?"</string>
+    <string name="timer_text">Seconds remaining: %d</string>
+    <string name="score_text">Score: %d</string>
+    <string name="start_game_text">New Game</string>
+</resources>
